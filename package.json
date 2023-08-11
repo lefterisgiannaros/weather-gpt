@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.6",
     "@tremor/react": "^3.6.1",
     "@types/node": "20.4.9",
     "@types/react": "18.2.19",
@@ -17,6 +18,7 @@
     "country-state-city": "^3.1.4",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
+    "heroicons": "^2.0.18",
     "next": "13.4.13",
     "postcss": "8.4.27",
     "react": "18.2.0",
